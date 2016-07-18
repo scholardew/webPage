@@ -1,0 +1,51 @@
+.imgFloatLeft {
+  float:left;
+}
+
+p.description {
+  font-size:1.5em;
+
+}
+
+header {
+  width:100%;
+  background-color:black;
+  color:white;
+  margin-right:auto;
+  margin-left:auto;
+  padding:10px;
+  overflow:hidden;
+}
+
+h1 {
+  font-size:2em;
+  margin:0;
+  padding:0;
+  padding-top:10px;
+}
+
+h2 {
+  font-size:1.6;
+}
+
+hgroup {
+  width:70%;
+  float:left;
+}
+
+hgroup h1 {
+  padding-top:0;
+  line-height:1em;
+}
+
+hgroup h2 {
+  text-transform:uppercase;
+  font-size:1.2em;
+  line-height:1em;
+}
+
+.alignPics {
+  width:640px;
+  height:145px;
+}
+

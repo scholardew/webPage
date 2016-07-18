@@ -1,0 +1,107 @@
+﻿.indexBckGrnd {
+  background-image: url("pictures/Molten_Metal.jpg");
+}
+
+header {
+  width:100%;
+  background-color:black;
+  color:white;
+  margin-right:auto;
+  margin-left:auto;
+  padding:10px;
+  overflow:hidden;
+}
+
+h3 {
+  color:white;
+  text-align:center;
+
+}
+
+h1 {
+  font-size:2em;
+  margin:0;
+  padding:0;
+  padding-top:10px;
+}
+
+h2 {
+  font-size:1.6;
+}
+
+hgroup {
+  width:70%;
+  float:left;
+}
+
+hgroup h1 {
+  padding-top:0;
+  line-height:1em;
+}
+
+hgroup h2 {
+  text-transform:uppercase;
+  font-size:1.2em;
+  line-height:1em;
+}
+
+nav {
+  width:30%;
+  float:right;
+
+}
+
+.homeLink {
+  float:right;
+  margin-right:25px;
+}
+
+
+nav ul {
+  list-style-type:none;
+}
+
+nav li {
+  color: white;
+  float:right;
+  margin-right:25px;
+
+}
+
+
+.imgAlignMiddle {
+  display: block;
+  margin: 0 auto;
+}
+
+.imgFloatLeft {
+  float:left;
+}
+
+p.block {
+  color:white;
+  font-size:1.1em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10em;
+}
+
+p.item {
+  color:white;
+  font-size:1.5em;
+}
+
+p.description {
+  font-size:1.5em;
+
+}
+
+footer {
+  width:100%;
+  background-color:black;
+  color:white;
+  margin-right:auto;
+  margin-left:auto;
+  height:50px;
+  padding:10px;
+}
